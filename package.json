@@ -1,0 +1,9 @@
+{
+    "name": "groupify",
+    "version": "1.0.0",
+    "description": "Chrome extension that provides auto-grouping into tab groups by URL",
+    "author": "userTim",
+    "devDependencies": {
+        "@types/chrome": "^0.0.133"
+    }
+}

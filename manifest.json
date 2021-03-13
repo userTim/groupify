@@ -1,0 +1,16 @@
+{
+    "name": "Groupify",
+    "description": "Auto-add tab to groups by URL",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "worker.js"
+    },
+    "permissions": ["storage", "tabs"],
+    "icons": {
+        "16": "kekw_16.png",
+        "32": "kekw_32.png",
+        "48": "kekw_48.png",
+        "128": "kekw_128.png"
+    }
+}
