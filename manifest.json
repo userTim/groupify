@@ -6,7 +6,7 @@
     "background": {
         "service_worker": "worker.js"
     },
-    "permissions": ["storage", "tabs"],
+    "permissions": ["storage", "tabs", "contextMenus"],
     "icons": {
         "16": "kekw_16.png",
         "32": "kekw_32.png",
